@@ -1,0 +1,13 @@
+Hello Everyone! Welcome to this repositories done by Sadman Sakib. 
+This a simple calculator using Python without Graphical User Interfaces(GUI). This is a command promt based calculator which can add, substract, multuply and divide a numbers.
+
+Have a nice Day.
+
+Created by,
+Sadman Sakib
+
+Note: You can download the source code for personal uses only. Don't upload in any other websites without owners permission.
+Thank you!
+
+
+Follow me on FaceBook: https://www.facebook.com/sadmansakib2427/
